@@ -14,7 +14,7 @@ The following domains that will all need to be functional, presumably on differe
 
 Repository `phishnet5`: 
 * phish.net
-* [redacted].phish.net - the Phish.net admin panel
+* _[redacted]_.phish.net - the Phish.net admin panel
 * api.phish.net - the phish.net API
 * current.phish.net - phone optimized setlists
 * phi.sh - short URL receiver  
@@ -22,8 +22,8 @@ Repository `phishnet5`:
 * docs.phish.net - documentation of Phish.net API 
 * blog.phish.net - legacy redirector
 * m.phish.net - legacy redirector
-* [redacted].phish.net - testing
-* [redacted].phish.net - testing 
+* _[redacted]_.phish.net - testing
+* _[redacted]_.phish.net - testing 
 
 Repository `forum`:
 * forum.phish.net - The forum is a single repository and is self-contained, using its own repo. It uses Handlebars for templating, Sphinx for search, and several javascript libraries. It currently has no Docker support at all.  
