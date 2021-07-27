@@ -8,6 +8,8 @@ For over a decade, we've had a small team of volunteers assisting with occasiona
 
 Currently, "Phish.net" is built from two distinct git repositories, both hosted on Github. All of them contain PHP 7.x code running against data in MySQL via PDO and a database API framework. The sites all use a custom MVC framework and depend on mod_rewrite, .htaccess, Smarty for PHP templating, and Memcache. 
 
+The contract position we're looking to fill has two main goals. The first is to complete the containerized installation of phish.net and sites within main repository. Th second portion of the project is getting our forum, which is a separate repository, working within Docker. 
+
 The following domains that will all need to be functional, presumably on different local TCP ports: 
 
 Repository `phishnet5`: 
@@ -32,6 +34,6 @@ Here is a screenshot of the root of the current `phishnet5` repo:
 
 Currently, pulling the repo and running `docker-compose up` will result in a functional local site mirroring the main domain, but without any of the ancillary sites, such as the admin portal, the forum, or the API. Because some of the bugs we're currently experiencing are on those sites, we're in bit of a rut. 
 
-Do you have the skills to step in and help the Phish community on the gold standard of Phish data? If so, please provide your resume; phish.net username; your github/bitbucket/gitlab username(s); your favorite Phish song; and an initial estimate of hours to tech@phish.net. We hope to use all of these factors to locate a qualified candidate and bring you the best phish.net experience possible. 
+Do you have the skills to step in and help the Phish community on the gold standard of Phish data? If so, please provide your resume; phish.net username; your github/bitbucket/gitlab username(s); your favorite Phish song; and an initial estimate of hours to `tech@phish.net`. We hope to use all of these factors to locate a qualified candidate and bring you the best phish.net experience possible. 
 
-Got questions? Fire them our way! 
+Got questions? Send them our way! 
