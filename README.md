@@ -8,7 +8,7 @@ For over a decade, we've had a small team of volunteers assisting with occasiona
 
 Currently, "Phish.net" is built from two distinct git repositories, both hosted on Github. All of them contain PHP 7.x code running against data in MySQL via PDO and a database API framework. The sites all use a custom MVC framework and depend on mod_rewrite, .htaccess, Smarty for PHP templating, and Memcache. 
 
-The contract position we're looking to fill has two main goals. The first is to complete the containerized installation of phish.net and sites within main repository. Th second portion of the project is getting our forum, which is a separate repository, working within Docker. 
+The project has two main goals: the first is to complete the mostly functional containerized installation of phish.net and sites within main repository; the second portion of the project is getting our forum, which is a separate repository, working in the same method. 
 
 The following domains that will all need to be functional, presumably on different local TCP ports: 
 
